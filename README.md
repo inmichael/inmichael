@@ -125,6 +125,12 @@
       </a>
       <br>Tailwind
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://seeklogo.com/images/S/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png?v=638421451470000000" width="36" height="36" alt="ShadCn UI" />
+      </a>
+      <br>ShadCn UI
+    </td>
    <td align="center" width="110" height="90">
       <a href="#tech-stack">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />

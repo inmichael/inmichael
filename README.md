@@ -148,19 +148,6 @@
   </tr>
 </table>
 
-> Management Project
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDIzOC40MiAyMzguNTUiPjxkZWZzPjxzdHlsZT4uZ3tmaWxsOiNmMTFmMjQ7fS5oe2ZpbGw6IzdkNGNjZjt9Lml7ZmlsbDojNzhmZmM3O308L3N0eWxlPjwvZGVmcz48ZyBpZD0iYSIvPjxnIGlkPSJiIj48ZyBpZD0iYyI+PGc+PGcgaWQ9ImQiPjxyZWN0IGNsYXNzPSJnIiB5PSIwIiB3aWR0aD0iMjM4LjQyIiBoZWlnaHQ9IjIzOC41NSIgcng9IjYyLjMzIiByeT0iNjIuMzMiLz48L2c+PGcgaWQ9ImUiPjxyZWN0IGNsYXNzPSJpIiB4PSIzNi4yOCIgeT0iMzYuNjciIHdpZHRoPSIxNjUuNDkiIGhlaWdodD0iMTY1LjQ5IiByeD0iMzMuOTYiIHJ5PSIzMy45NiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTQ5LjU4IDExOS4xNCkgcm90YXRlKC00NSkiLz48L2c+PGcgaWQ9ImYiPjxlbGxpcHNlIGNsYXNzPSJoIiBjeD0iMTE5LjExIiBjeT0iMTE5LjMxIiByeD0iNjEuMDgiIHJ5PSI1OC45OCIvPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4K" width="36" height="36" alt="Jira" />
-      </a>
-      <br>Kaiten
-    </td>
-  </tr>
-</table>
-
 > Other Tools
 
 <table width='100%'>
@@ -170,6 +157,12 @@
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" />
+      </a>
+      <br>i18next
     </td>
   </tr>
 </table>

@@ -158,7 +158,7 @@
       </a>
       <br>Vite
     </td>
-    <td align="center" width="110" height="90">
+    <td align="center" width="90" height="70">
       <a href="#tech-stack">
         <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" />
       </a>

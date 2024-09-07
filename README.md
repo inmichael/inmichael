@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d072ccb1-f8a7-4e8d-8271-cc0564bbb4ea)<h1 align="left">Hi there 👋, my name is Michael</h1>
+<h1 align="left">Hi there 👋, my name is Michael</h1>
 <h3 align="left">I am a beginner frontend developer</h3>
 <h3 align="left">At this stage I am posting pet-projects here :)</h3>
 

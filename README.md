@@ -158,9 +158,9 @@
       </a>
       <br>Vite
     </td>
-    <td align="center" width="50" height="50">
+    <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" />
+        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="36" height="36" alt="i18next" />
       </a>
       <br>i18next
     </td>

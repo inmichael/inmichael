@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, my name is Michael</h1>
+![image](https://github.com/user-attachments/assets/d072ccb1-f8a7-4e8d-8271-cc0564bbb4ea)<h1 align="left">Hi there 👋, my name is Michael</h1>
 <h3 align="left">I am a beginner frontend developer</h3>
 <h3 align="left">At this stage I am posting pet-projects here :)</h3>
 
@@ -27,28 +27,34 @@
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#tech-stack" >
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#tech-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#tech-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
       </a>
       <br>Yarn
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
+      <a href="#tech-stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>NPM
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMp3ChjdCi1KpeZ92gC19jHhoPMSV5pzItg&s" width="56" height="36" alt="pnpm" />
+      </a>
+      <br>PNPM
     </td>
   </tr>
 </table>

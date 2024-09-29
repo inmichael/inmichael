@@ -160,25 +160,6 @@
   </tr>
 </table>
 
-> Other Tools
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
-      </a>
-      <br>Vite
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="46" height="46" alt="i18next" />
-      </a>
-      <br>i18next
-    </td>
-  </tr>
-</table>
-
 > Backend
 
 <table width='100%'>
@@ -208,6 +189,25 @@
       <br>Firebase
     </td>
       </tr>
+</table>
+
+> Other Tools
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://avatars.githubusercontent.com/u/8546082?s=280&v=4" width="46" height="46" alt="i18next" />
+      </a>
+      <br>i18next
+    </td>
+  </tr>
 </table>
 
 <h2 align="left" id="contact">📞 Contact</h2>

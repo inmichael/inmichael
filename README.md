@@ -191,6 +191,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" width="36" height="36" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL

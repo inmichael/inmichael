@@ -40,21 +40,9 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" width="36" height="36" alt="yarn" />
-      </a>
-      <br>Yarn
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#tech-stack">
         <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
       </a>
       <br>NPM
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#tech-stack">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEMp3ChjdCi1KpeZ92gC19jHhoPMSV5pzItg&s" width="56" height="36" alt="pnpm" />
-      </a>
-      <br>PNPM
     </td>
   </tr>
 </table>

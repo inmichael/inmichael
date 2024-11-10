@@ -213,6 +213,12 @@
       </a>
       <br>i18next
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" width="36" height="36" alt="React Router" />
+      </a>
+      <br>React Router
+    </td>
   </tr>
 </table>
 

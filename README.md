@@ -16,6 +16,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
       </a>
       <br>HTML5
@@ -57,11 +63,11 @@
       </a>
       <br>React
     </td>
-  <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+        <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="36" height="36" alt="Next.js" />
       </a>
-      <br>TypeScript
+      <br>Next.js
     </td>
  </tr>
 </table>

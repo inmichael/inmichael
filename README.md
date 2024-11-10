@@ -86,7 +86,13 @@
       <a href="#tech-stack">
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
       </a>
-      <br>Apollo
+      <br>Apollo Client
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://mobx.js.org/assets/mobx.png" width="36" height="36" alt="MobX" />
+      </a>
+      <br>MobX
     </td>
   </tr>
 </table>
@@ -152,7 +158,7 @@
 
 <table width='100%'>
   <tr>
-   <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#tech-stack">
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node.js" />
       </a>
@@ -170,13 +176,19 @@
       </a>
       <br>GraphQL
     </td>
-  <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
       <a href="##tech-stack" >
         <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
-      </tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo Server
+    </td>
+  </tr>
 </table>
 
 > Other Tools
@@ -202,4 +214,5 @@
 
 - :file_folder: &nbsp; **[GitHub](https://github.com/michaelven)**
 - :bird: &nbsp; **[VK](https://vk.com/wakeup_goof)**
+- 📧 &nbsp; **[Gmail](mailto:minym424@gmail.com)**
 ---

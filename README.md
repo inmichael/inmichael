@@ -219,6 +219,12 @@
       </a>
       <br>React Router
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://github.com/mswjs/msw/raw/main/media/msw-logo.svg" width="46" height="46" alt="Mock Service Worker" />
+      </a>
+      <br>MSW
+    </td>
   </tr>
 </table>
 

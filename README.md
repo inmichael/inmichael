@@ -33,12 +33,6 @@
       <br>CSS3
     </td>
     <td align="center" width="110" height="90">
-      <a href="#tech-stack" >
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width="36" height="36" alt="figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="110" height="90">
       <a href="#tech-stack">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width="36" height="36" alt="git" />
       </a>

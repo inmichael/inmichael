@@ -182,6 +182,19 @@
       </a>
       <br>Apollo Server
     </td>
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
 

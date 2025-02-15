@@ -78,7 +78,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="Tanstack Query" />
+        <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" width="40" height="40" alt="Tanstack Query" />
       </a>
       <br>Tanstack Query
     </td>

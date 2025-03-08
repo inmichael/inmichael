@@ -215,6 +215,12 @@
       </a>
       <br>Mongoose
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="40" height="40" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
   </tr>
 </table>
 

@@ -129,6 +129,31 @@
  
 </table>
 
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90"> 
+      <a href="#tech-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#tech-stack">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="36" height="36" alt="Vitest" />
+      </a>
+      <br>Vitest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://playwright.dev/img/playwright-logo.svg" width="36" height="36" alt="playwright" />
+      </a>
+      <br>Playwright
+    </td>
+  </tr> 
+</table>
+
 > Code Quality
 
 <table width='100%'>

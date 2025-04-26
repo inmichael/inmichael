@@ -166,6 +166,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
+        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="36" height="36" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL

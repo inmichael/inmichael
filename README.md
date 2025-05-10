@@ -22,6 +22,12 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
+        <img src="https://i.postimg.cc/rFNyWmDq/Go-Logo-Blue-1.png" width="80" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" />
       </a>
       <br>HTML5
@@ -78,7 +84,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" width="40" height="40" alt="Tanstack Query" />
+        <img src="https://res.cloudinary.com/dg3gyk0gu/image/upload/v1683914713/tags/tanstack.png" width="40" height="40" alt="Tanstack Query" />
       </a>
       <br>Tanstack Query
     </td>

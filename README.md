@@ -44,12 +44,6 @@
       </a>
       <br>Git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#tech-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>NPM
-    </td>
   </tr>
 </table>
 

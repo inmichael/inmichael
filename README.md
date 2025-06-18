@@ -172,7 +172,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="Prettier" />
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="46" height="46" alt="Prettier" />
       </a>
       <br>Prettier
     </td>
@@ -185,13 +185,13 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node.js" />
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="46" height="46" alt="Node.js" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original.svg" width="36" height="36" alt="Express" />
+        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="46" height="46" alt="Express" />
       </a>
       <br>Express
     </td>
@@ -209,7 +209,7 @@
     </td>
     <td align="center" width="110" height="90"> 
       <a href="##tech-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="36" height="36" alt="Firebase" />
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="46" height="46" alt="Firebase" />
       </a>
       <br>Firebase
     </td>

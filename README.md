@@ -179,13 +179,13 @@
   <tr>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="46" height="46" alt="Node.js" />
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="40" height="40" alt="Node.js" />
       </a>
-      <br>Node JS
+      <br>Node.js
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="46" height="46" alt="Express" />
+        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="40" height="40" alt="Express" />
       </a>
       <br>Express
     </td>

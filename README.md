@@ -258,6 +258,12 @@
       </a>
       <br>Prisma
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://typeorm.io/img/typeorm-icon-colored.png" width="50" height="36" alt="TypeORM" />
+      </a>
+      <br>TypeORM
+    </td>
   </tr>
 </table>
 

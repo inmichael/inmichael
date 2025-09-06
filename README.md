@@ -44,8 +44,120 @@
       </a>
       <br>Git
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" width="46" height="46" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
   </tr>
 </table>
+
+> Backend
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="40" height="40" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="40" height="40" alt="Express" />
+      </a>
+      <br>Express
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="40" height="40" alt="NestJS" />
+      </a>
+      <br>NestJS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="46" height="46" alt="Socket.IO" />
+      </a>
+      <br>Socket.IO
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="##tech-stack" >
+        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="46" height="46" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
+      </a>
+      <br>Apollo Server
+    </td>
+  </tr>
+</table>
+
+> Database
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="40" height="40" alt="Redis" />
+      </a>
+      <br>Redis
+    </td>
+  </tr>
+</table>
+
+> ORM
+
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" width="40" height="40" alt="Mongoose" />
+      </a>
+      <br>Mongoose
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="40" height="40" alt="Prisma" />
+      </a>
+      <br>Prisma
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://typeorm.io/img/typeorm-icon-colored.png" width="50" height="36" alt="TypeORM" />
+      </a>
+      <br>TypeORM
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://avatars.githubusercontent.com/u/108468352?v=4" width="50" height="36" alt="Drizzle" />
+      </a>
+      <br>Drizzle
+    </td>
+  </tr>
+</table>
+
 
 > Frontend
 
@@ -121,9 +233,9 @@
     </td>
    <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+        <img src="https://ui.shadcn.com/apple-touch-icon.png" width="36" height="36" alt="Shadcn" />
       </a>
-      <br>Bootstrap
+      <br>Shadcn
     </td>
   </tr>
  
@@ -169,94 +281,6 @@
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="46" height="46" alt="Prettier" />
       </a>
       <br>Prettier
-    </td>
-  </tr>
-</table>
-
-> Backend
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="40" height="40" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://www.peanutsquare.com/wp-content/uploads/2024/04/Express.png" width="40" height="40" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="40" height="40" alt="NestJS" />
-      </a>
-      <br>NestJS
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="110" height="90"> 
-      <a href="##tech-stack" >
-        <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" width="46" height="46" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
-      </a>
-      <br>Apollo Server
-    </td>
-    </td>
-  </tr>
-</table>
-
-> Database
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" alt="PostgreSQL" />
-      </a>
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-</table>
-
-> ORM
-
-<table width="100%">
-  <tr>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" width="40" height="40" alt="Mongoose" />
-      </a>
-      <br>Mongoose
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="40" height="40" alt="Prisma" />
-      </a>
-      <br>Prisma
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#tech-stack">
-        <img src="https://typeorm.io/img/typeorm-icon-colored.png" width="50" height="36" alt="TypeORM" />
-      </a>
-      <br>TypeORM
     </td>
   </tr>
 </table>

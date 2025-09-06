@@ -321,10 +321,3 @@
     </td>
   </tr>
 </table>
-
-<h2 align="left" id="contact">📞 Contact</h2>
-
-- :file_folder: &nbsp; **[GitHub](https://github.com/michaelven)**
-- :bird: &nbsp; **[VK](https://vk.com/wakeup_goof)**
-- 📧 &nbsp; **[Gmail](mailto:minym424@gmail.com)**
----

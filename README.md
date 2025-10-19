@@ -158,6 +158,50 @@
   </tr>
 </table>
 
+> Message Brokers / Message Queues
+
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://www.rabbitmq.com/assets/files/rabbitmq-logo-e91cacd38fcef5219149bc5cfa10b384.svg" width="40" height="40" alt="RabbitMQ" />
+      </a>
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://repository-images.githubusercontent.com/212838243/8adcb980-fafa-11e9-8946-f511158b61be" width="40" height="40" alt="NATS" />
+      </a>
+      <br>NATS
+    </td>
+  </tr>
+</table>
+
+> Observability
+
+<table width="100%">
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://camo.githubusercontent.com/8d24629d591a06f2abdab869d0d362552bff745e7e817ec80d70e8c5b371f3d6/68747470733a2f2f6f70656e74656c656d657472792e696f2f696d672f6c6f676f732f6f70656e74656c656d657472792d6c6f676f2d6e61762e706e67" width="40" height="40" alt="OpenTelemetry" />
+      </a>
+      <br>OpenTelemetry
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="40" height="40" alt="Prometheus" />
+      </a>
+      <br>Prometheus
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#tech-stack">
+        <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/grafana-ipeuuhi0ws3fbikv7ojrk.png/grafana-625ktq51icaz2carazn0n.png?_a=DATAg1AAZAA0" width="40" height="40" alt="Grafana" />
+      </a>
+      <br>Grafana
+    </td>
+  </tr>
+</table>
+
 
 > Frontend
 

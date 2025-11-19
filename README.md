@@ -71,7 +71,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="40" height="40" alt="NestJS" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="40" height="40" alt="NestJS" />
       </a>
       <br>NestJS
     </td>

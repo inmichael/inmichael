@@ -22,7 +22,7 @@
     </td>
     <td align="center" width="110" height="90">
       <a href="#tech-stack">
-        <img src="https://i.postimg.cc/rFNyWmDq/Go-Logo-Blue-1.png" width="80" alt="Go" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="68" alt="Go" />
       </a>
       <br>Go
     </td>
